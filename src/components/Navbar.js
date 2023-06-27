@@ -62,7 +62,7 @@
           
            
            <div className={menu ? 'fixed top-0 left-0 bg-white w-[250px] h-screen z-20 duration-300' :'fixed top-0 left-[-100%] bg-white w-[250px] h-screen z-20 duration-300' }>
-           <AiOutlineClose onClick={closeMenu}  className='absolute  right-4 top-4' size={25} />
+           <AiOutlineClose onClick={closeMenu}  className='absolute  right-4 top-4 cursor-pointer' size={25} />
            <h2 className='text-2xl absolute left-4 top-4'>Best<span className='text-[orange] font-bold'>Eats</span></h2>
             
             <ul className='p-4 flex flex-col text-gray-800 mt-12'>

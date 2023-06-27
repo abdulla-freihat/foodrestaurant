@@ -17,7 +17,7 @@
                  <p className='px-2'> Through 8/26</p>
                  <button className='bg-orange-500 font-bold mx-2 absolute bottom-4'>Order Now</button>
              </div>
-             <img className=' object-cover rounded-xl w-full max-h-[180px] md:max-h-[200px]' src="egg.jpg"   />
+             <img className=' object-cover rounded-xl w-full max-h-[180px] md:max-h-[200px]' src="https://images.pexels.com/photos/2293537/pexels-photo-2293537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"   />
 
             
         </div>
@@ -30,7 +30,7 @@
                 <p className='px-2'> Added Daily </p>
                 <button className='bg-orange-500 font-bold mx-2 absolute bottom-4'>Order Now</button>
             </div>
-            <img className=' object-cover rounded-xl w-full max-h-[180px] md:max-h-[200px]' src="meat.jpg"   />
+            <img className=' object-cover rounded-xl w-full max-h-[180px] md:max-h-[200px]' src="https://images.pexels.com/photos/1639561/pexels-photo-1639561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"   />
 
            
        </div>
@@ -44,7 +44,7 @@
                 <p className='px-2'> Tasty Treats</p>
                 <button className='bg-orange-500 font-bold mx-2 absolute bottom-4'>Order Now</button>
             </div>
-            <img className=' object-cover rounded-xl w-full max-h-[180px] md:max-h-[200px] ' src="desserts.jpg"   />
+            <img className=' object-cover rounded-xl w-full max-h-[180px] md:max-h-[200px] ' src="https://images.pexels.com/photos/1579926/pexels-photo-1579926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"   />
 
            
        </div>

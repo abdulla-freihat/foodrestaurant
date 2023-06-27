@@ -63,7 +63,7 @@ const Food = () => {
 
        {/* display foods */}
 
-          <div className='grid grid-cols-2 lg:grid-cols-4 gap-6 pt-4'>
+          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 pt-4'>
              {foods.map((item , index)=> (
                  <div key={index} className='border shadow-lg hover:scale-105 duration-300'> 
                    <img className='w-full h-[200px] object-cover rounded-t-lg' src={item.image} alt={item.name} />

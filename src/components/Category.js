@@ -20,6 +20,8 @@ import { categories } from '../data/data'
         ))}
      </div>
 
+     
+
      </div>
    )
  }
